@@ -95,9 +95,4 @@ https://youtu.be/pQSLLXEFiBE
 
 Distributed under the GNU General Public License v3.0 License. See [LICENSE](https://github.com/admin-sauce/Water-Cleanliness-Prediction-ML-Web-App/blob/master/LICENSE) for more information.
 
-## Authors
-
-[Abishek ](https://github.com/MLAbishek) </br>
-[Rishon Jos Anton](https://github.com/RishonAnton) </br>
-[Thomas Albert Iwin](https://github.com/admin-sauce)
 
